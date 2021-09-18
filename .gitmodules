@@ -1,0 +1,3 @@
+[submodule "web_amazon"]
+	path = web_amazon
+	url = https://github.com/antim167/web_amazon.git
